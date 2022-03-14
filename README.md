@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on [Bside projects](https://github.com/hwanginbeom/bside)  
   
 
-- eodud4976@gmail.com  
+- 📮  eodud4976@gmail.com  
   
 
 - ⚡ fighting!, developers!  
