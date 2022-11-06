@@ -18,7 +18,7 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Bside projects](https://github.com/hwanginbeom/bside)  
+- 🔭 I’m currently working
   
 
 - 📮  eodud4976@gmail.com  
