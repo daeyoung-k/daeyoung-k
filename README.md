@@ -8,24 +8,10 @@
 <a href="https://instagram.com/https://www.instagram.com/kkun_dae/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
+- 📮  eodud4976@gmail.com  
 
 <br/>  
 
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working
-  
-
-- 📮  eodud4976@gmail.com  
-  
-
-- ⚡ fighting!, developers!  
-
-
-</td><td valign="top" width="50%">
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
