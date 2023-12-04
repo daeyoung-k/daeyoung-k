@@ -1,13 +1,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eodud4976@gmail.com)](mailto:eodud4976@gmail.com)
-[![GitHub Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://github.com/daeyoung-k)](https://github.com/https://github.com/daeyoung-k)
+[![GitHub Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://github.com/daeyoung-k)](https://github.com/daeyoung-k)
+[![Instagram Badge](http://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&link=https://www.instagram.com/kkkwon_dae/)](https://www.instagram.com/kkkwon_dae/)
 
-
-<a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100003487075951" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/https://www.instagram.com/kkun_dae/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
 <br/>  
 
 
