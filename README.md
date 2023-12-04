@@ -15,4 +15,4 @@
 <br/>  
 
 ----
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daeyoung-k%2Fgjbae1212%2Fhit-counter)](https://github.com/daeyoung-khttps://github.com/daeyoung-k)                    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daeyoung-k%2Fgjbae1212%2Fhit-counter)](https://github.com/daeyoung-k)
