@@ -1,7 +1,9 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eodud4976@gmail.com)](mailto:eodud4976@gmail.com)
-<a href="https://github.com/https://github.com/daeyoung-k" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/https://github.com/daeyoung-k)](https://github.com/https://github.com/daeyoung-k)
+
+
+
 <a href="https://www.facebook.com/https://www.facebook.com/profile.php?id=100003487075951" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
