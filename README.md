@@ -2,9 +2,6 @@
 [![GitHub Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://github.com/daeyoung-k)](https://github.com/daeyoung-k)
 [![Instagram Badge](http://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&link=https://www.instagram.com/kkkwon_dae/)](https://www.instagram.com/kkkwon_dae/)
 
-<br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
