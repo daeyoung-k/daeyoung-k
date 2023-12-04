@@ -12,4 +12,4 @@
 
 </td></tr></table>  
 
-<div style="text-alain:center;">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daeyoung-k/gjbae1212/hit-counter)](https://github.com/daeyoung-k)</div>
+<p align="center">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daeyoung-k/gjbae1212/hit-counter)](https://github.com/daeyoung-k)</p>
