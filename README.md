@@ -1,4 +1,6 @@
-
+<a href="mailto:eodud4976@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;"> 
+</a>
 <a href="https://github.com/https://github.com/daeyoung-k" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -24,7 +26,7 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 </td><td valign="top" width="50%">
 
