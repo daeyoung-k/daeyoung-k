@@ -29,7 +29,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 </td><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jogilsang&langs_count=10&layout=compact&theme=dark)](https://github.com/https://github.com/daeyoung-k)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daeyoung-k&langs_count=10&layout=compact&theme=dark)](https://github.com/daeyoung-k)
 
 </td></tr></table>  
 
