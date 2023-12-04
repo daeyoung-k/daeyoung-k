@@ -27,7 +27,6 @@
 <table><tr><td valign="top" width="50%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-
 </td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeyoung-k&hide_border=true&layout=compact" align="left" style="width: 100%" />
