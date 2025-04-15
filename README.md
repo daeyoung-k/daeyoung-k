@@ -1,5 +1,5 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&link=mailto:eodud4976@gmail.com)](mailto:eodud4976@gmail.com)
-[![GitHub Badge](http://img.shields.io/badge/Github-black?style=flat-square&logo=github&link=https://github.com/daeyoung-k)](https://github.com/daeyoung-k)
+[![Naver Badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Naver&link=mailto:eodud4976@naver.com)](mailto:eodud4976@naver.com)
 [![Instagram Badge](http://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram&link=https://www.instagram.com/kkkwon_dae/)](https://www.instagram.com/kkkwon_dae/)
 
 ## Github Stats  
